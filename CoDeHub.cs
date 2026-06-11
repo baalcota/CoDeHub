@@ -16,6 +16,7 @@ namespace CoDeHub
         public CoDeHub()
         {
             Instance = this;
+            Console.WriteLine("Testeando commit");
         }
 
         ///<summary>Gets the only instance of the MyRhinoPlugin1 plug-in.</summary>
